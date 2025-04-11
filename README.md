@@ -24,4 +24,4 @@ The Date/Time column is converted from string format to Python's datetime object
     Hour: Hour of the day
 
     Weekday: Day of the week (0 = Monday, 6 = Sunday)
-Several histograms were generated to uncover trends in Uber ride demand:
+Several histograms were generated to uncover trends in Uber ride demand.
